@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently focusing on **Problem Solving Skill.**
 
-- 🌱 I’m currently learning **Reactjs for Frontend and .NET for backend**
+- 🌱 I’m currently learning **Reactjs for Frontend and .NET for backend.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
